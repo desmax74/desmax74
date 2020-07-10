@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://avatars0.githubusercontent.com/u/141301?s=400&u=9c0ed709680e71fea7109dcf97196ab1c01bc9c1&v=4)]
+[![Hello 👋🏻]
 
 Hi. I’m Max. I am a Software Engineer from Sardinia (🇮🇹)
 
