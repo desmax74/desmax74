@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Hello 👋🏻](https://avatars0.githubusercontent.com/u/141301?s=400&u=9c0ed709680e71fea7109dcf97196ab1c01bc9c1&v=4)]
+
+Hi. I’m Max. I am a Software Engineer from Sardinia (🇮🇹)
+
+I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the [Kie group](http://kie.org)
 
 <!--
 **desmax74/desmax74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
