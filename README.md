@@ -1,5 +1,3 @@
-[![Hello 👋🏻]
-
 Hi. I’m Max. I am a Software Engineer from Sardinia (🇮🇹)
 
 I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the [Kie group](http://kie.org)
