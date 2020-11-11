@@ -1,6 +1,6 @@
 Hi. I’m Max. I am a Software Engineer from Sardinia (🇮🇹)
 
-I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the BSIG Business and Intelligence Group and [Kie group](http://kie.org)
+I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the BSIG (Business and Intelligence Group) and [Kie group](http://kie.org)
 
 <!--
 **desmax74/desmax74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
