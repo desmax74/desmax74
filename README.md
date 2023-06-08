@@ -2,6 +2,7 @@ Hi. I’m Max. I am a Software Engineer from Sardinia ([:+:] 🇮🇹)
 
 I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the [Kie](http://kie.org) Cloud Team  
 
+My Conferences [presentations](https://github.com/desmax74/presentations) over the years 
 <!--
 **desmax74/desmax74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
