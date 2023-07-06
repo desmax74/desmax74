@@ -1,6 +1,6 @@
 # Massimiliano Dessì
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/desmax74)](https://github.com/desmax74)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desmax74/)](https://www.linkedin.com/in/desmax74/)
 
 ### Hey! 👋 Welcome to my profile
@@ -19,6 +19,8 @@ My conf [presentations](https://github.com/desmax74/presentations) over the year
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=desmax74&theme=blue-green&hide_border=true" width = 400>
 </p>
 <!--
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/desmax74)](https://github.com/desmax74)
 **desmax74/desmax74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
