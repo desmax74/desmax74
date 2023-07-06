@@ -21,7 +21,6 @@ My conf [presentations](https://github.com/desmax74/presentations) over the year
 <!--
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/desmax74)](https://github.com/desmax74)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 **desmax74/desmax74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
