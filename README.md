@@ -9,10 +9,9 @@ I’m Max. I am a Software Engineer from Sardinia ([:+:] 🇮🇹)
 
 I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the [Kie](http://kie.org) Cloud Team
 - I’m currently working on the SonataFlow, formerly Kogito Serverless Workflow
+- 💙 In love with Openshift/Kubernetes
 
 My conf [presentations](https://github.com/desmax74/presentations) over the years 
-
- - 💙 In love with Openshift/Kubernetes
 
 ---
 <p align = "center">
