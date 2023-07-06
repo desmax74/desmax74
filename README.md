@@ -15,7 +15,7 @@ My conf [presentations](https://github.com/desmax74/presentations) over the year
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=desmax74&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=desmax74&show_icons=true&theme=blue-green" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=desmax74&theme=dark&hide_border=true" width = 400>
 </p>
 <!--
