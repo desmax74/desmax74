@@ -7,7 +7,7 @@
 
 I’m Max. I am a Software Engineer from Sardinia ([:+:] 🇮🇹)
 
-I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the [Trusted Content](https://www.trustification.io/) team 
+I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the [Trustification](https://www.trustification.io/) team 
 - Formerly [Kie](http://kie.org) Cloud Team on RHPAM/BA/Kogito/SonataFlow Operators
 - 💙 In love with Openshift/Kubernetes and Golang
 - Learning Rust
