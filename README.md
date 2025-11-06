@@ -11,9 +11,12 @@ I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the 
 - Lead of [Trusted-Profile Analyzer Operator](https://github.com/trustification/trusted-profile-analyzer-operator) 
 - Lead of [Trusted-Profile Analyzer Ansible playbook](https://github.com/trustification/trusted-profile-analyzer-ansible)
 - Lead of Trusted-Profile Analyzer Konflux pipelines and releases
+- Apache Software Foundation Committer
+- OpenSSF contributor
 - Formerly [Kie](http://kie.org) Cloud Team on RHPAM/RHDM/Kogito/Kiecloud SonataFlow Operators
 - 💙 In love with Openshift/Kubernetes and Golang
 - Learning Rust
+
 
 My conf [presentations](https://github.com/desmax74/presentations) over the years 
 
