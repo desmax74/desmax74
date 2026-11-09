@@ -5,7 +5,7 @@
 
 ### Hey! 👋 Welcome to my profile
 
-I’m Max. I am a Software Engineer from Sardinia ([:+:] 🇮🇹)
+I’m Max. I am a Principal Engineer from Sardinia ([:+:] 🇮🇹)
 
 I work at [RedHat](https://www.redhat.com) as a Senior Software Engineer in the [Trustification](https://www.trustification.io/) team 
 - Lead of [Trusted-Profile Analyzer Operator](https://github.com/trustification/trusted-profile-analyzer-operator) 
